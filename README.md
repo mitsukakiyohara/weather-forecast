@@ -1,3 +1,6 @@
+# Weather Forecast using React Hooks
+Another simple application that takes in a location and outputs a 5-day daily forecast of the location (temp, min/max temp, etc.) 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
