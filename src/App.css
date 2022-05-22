@@ -1,5 +1,11 @@
 .App {
   text-align: center;
+  color:aliceblue;
+}
+
+.row {
+  justify-content: center;
+  margin: 15px 0;
 }
 
 .App-logo {
